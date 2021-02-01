@@ -9,16 +9,25 @@ For this problem set, you will submit to Canvas **a single .zip file**. Detailed
 
 2. In that folder, create a folder called `ps2`. You will put all of the components required for this problem set in the `ps2` folder.
 
-## Part 1: Numbers
+3. Launch IDLE.
 
-1. Do a fancy calculation (practice with parens and operators).
+## Part 1: Strings
 
-2. Use integer division and mod.
+1. In the IDLE Shell, create a variable `mystring` and set its value to `"snowpocalypse"`. 
+
+2. Write a command to print out the string's length, which is 13.
+
+3. Write a command to print out the first letter of the string, which is "s".
+
+4. Write a command to print out the last letter of the string, which is "e".
+
+5. Create a variable called `middle` and use a mathematical operation to identify the location of the middle character is the string. The middle character of "snowpocalypse" is "c". It is the 7th letter in the string, but remember that Python starts counting from 0, so it will be the character at index 6. 
+
+6. Write a command to print out that character.
+
+7. Write a command that will print out `"SNOWPOCALYPSE"`.
 
 
-## Part 2: Strings
-
-first practice in the shell
 
 Use command line arguments.
 Specify a word, report back length, first letter, last letter, middle letter(s) (which uses integer division)
@@ -26,6 +35,14 @@ print from middle to end, from beginning to middle
 Concatenate two strings
 turn input into an integer 
 upper and lower
+
+
+## Part 2: Numbers
+
+1. Do a fancy calculation (practice with parens and operators).
+
+2. Use integer division and mod.
+
 
 ## Part 3: Combine the two
 Use your conversion techniques and string slicing to get the first, third, and final digit of some number.
