@@ -23,18 +23,33 @@ For this problem set, you will submit to Canvas **a single .zip file**. Detailed
 
 5. Create a variable called `middle` and use a mathematical operation to identify the location of the middle character is the string. The middle character of "snowpocalypse" is "c". It is the 7th letter in the string, but remember that Python starts counting from 0, so it will be the character at index 6. 
 
-6. Write a command to print out that character.
+6. Write a command to print out that middle character using the variable you created in step 5.
 
-7. Write a command that will print out `"SNOWPOCALYPSE"`.
+7. Write a command to print out `"snowpocalypsesnowpocalypse"` using the `mystring` variable.
+
+8. Open a new file in IDLE (`File -> New File`). Save the file in your `ps2` directory, and call it `part1.py`.
+
+9. Paste each of the above commands, in the order specified, into your `part1.py` file.
+
+10. At the top of the file, write four comments:
+
+* The name of the file.
+* Your name.
+* The date.
+* This code is my own work. 
+
+11. Save the file, select `Run -> Run Module`. The output should look like this
+
+```
+=================== RESTART: /Users/emilypx/Desktop/part1.py ===================
+13
+s
+e
+c
+snowpocalypsesnowpocalypse
+```
 
 
-
-Use command line arguments.
-Specify a word, report back length, first letter, last letter, middle letter(s) (which uses integer division)
-print from middle to end, from beginning to middle
-Concatenate two strings
-turn input into an integer 
-upper and lower
 
 
 ## Part 2: Numbers
