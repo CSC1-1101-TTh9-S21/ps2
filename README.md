@@ -21,7 +21,7 @@ For this problem set, you will submit to Canvas **a single .zip file**. Detailed
 
 4. Write a command to print out the last letter of the string, which is "e".
 
-5. Create a variable called `middle` and use a mathematical operation to identify the location of the middle character is the string. The middle character of "snowpocalypse" is "c". It is the 7th letter in the string, but remember that Python starts counting from 0, so it will be the character at index 6. 
+5. Create a variable called `middle` and use a mathematical operation to identify the location of the middle character of the string. The middle character of "snowpocalypse" is "c". It is the 7th letter in the string, but remember that Python starts counting from 0, so it will be the character at "index 6". 
 
 6. Write a command to print out that middle character using the variable you created in step 5.
 
