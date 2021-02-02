@@ -67,9 +67,34 @@ snowpocalypsesnowpocalypse
 
 5. Next write a line of code that calculates BMI according to the following forumula:
 
-<img src="formula.png">
+<img src="formula.png" width=300>
 
 6. Using `print` report to the user their BMI and tell them they look great.
+
+Here's a bunch of examples of what the output of your script should look like. (Remember that you have to enter something when it asks a question!)
+
+```
+>>> 
+=================== RESTART: /Users/emilypx/Desktop/part2.py ===================
+What is your height in inches? 70
+What is your weight in pounts? 180
+Your bmi is 25.82448979591837 and you look great!
+>>> 
+=================== RESTART: /Users/emilypx/Desktop/part2.py ===================
+What is your height in inches? 70
+What is your weight in pounts? 150
+Your bmi is 21.520408163265305 and you look great!
+>>> 
+=================== RESTART: /Users/emilypx/Desktop/part2.py ===================
+What is your height in inches? 65
+What is your weight in pounts? 145
+Your bmi is 24.12662721893491 and you look great!
+>>> 
+=================== RESTART: /Users/emilypx/Desktop/part2.py ===================
+What is your height in inches? 75
+What is your weight in pounts? 250
+Your bmi is 31.244444444444447 and you look great!
+```
 
 ---
 
