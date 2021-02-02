@@ -25,20 +25,22 @@ For this problem set, you will submit to Canvas **a single .zip file**. Detailed
 
 6. Write a command to print out that middle character using the variable you created in step 5.
 
-7. Write a command to print out `"snowpocalypsesnowpocalypse"` using the `mystring` variable.
+7. Write a command to print out `"snowpocalypsesnowpocalypse"` using the `mystring` variable. 
 
-8. Open a new file in IDLE (`File -> New File`). Save the file in your `ps2` directory, and call it `part1.py`.
+8. Write a *different* command to print out `"snowpocalypsesnowpocalypse"` using the `mystring` variable. 
 
-9. Paste each of the above commands, in the order specified, into your `part1.py` file.
+9. Open a new file in IDLE (`File -> New File`). Save the file in your `ps2` directory, and call it `part1.py`.
 
-10. At the top of the file, write four comments:
+10. Paste each of the above commands, in the order specified, into your `part1.py` file.
+
+11. At the top of the file, write four comments:
 
 * The name of the file.
 * Your name.
 * The date.
 * A statement saying "This code is my own work. I did not share my code or look at the code of another student."
 
-11. Save the file, select `Run -> Run Module`. The output should look like this
+12. Save the file, select `Run -> Run Module`. The output should look like this
 
 ```
 =================== RESTART: /Users/emilypx/Desktop/part1.py ===================
@@ -46,6 +48,7 @@ For this problem set, you will submit to Canvas **a single .zip file**. Detailed
 s
 e
 c
+snowpocalypsesnowpocalypse
 snowpocalypsesnowpocalypse
 ```
 
@@ -70,6 +73,8 @@ snowpocalypsesnowpocalypse
 <img src="formula.png" width=300>
 
 6. Using `print` report to the user their BMI and tell them they look great.
+
+7. Run your program.
 
 Here's a bunch of examples of what the output of your script should look like. (Remember that you have to enter something when it asks a question!)
 
