@@ -36,7 +36,7 @@ For this problem set, you will submit to Canvas **a single .zip file**. Detailed
 * The name of the file.
 * Your name.
 * The date.
-* This code is my own work. 
+* A statement saying "This code is my own work. I did not share my code or look at the code of another student."
 
 11. Save the file, select `Run -> Run Module`. The output should look like this
 
@@ -50,14 +50,36 @@ snowpocalypsesnowpocalypse
 ```
 
 
-
-
 ## Part 2: Numbers
 
-1. Do a fancy calculation (practice with parens and operators).
+1. Create a new file called `part2.py`. This program will calculate a user's BMI based on their height in inches and their weight in pounds.
 
-2. Use integer division and mod.
+2. At the top, add these four comments: 
+
+* The name of the file.
+* Your name.
+* The date.
+* A statement saying "This code is my own work. I did not share my code or look at the code of another student."
+
+3. The first line of the program program should use `input` to ask the user for his height in inches and save it as a variable `height`. *(If you don't know how to do this, please see Lab 1! Don't forget that `input` will make a string, but you will need an integer to do calculations.)*
+
+4. The second line of the program program should use `input` ask the user for his weight in pounds and save it as a variable `weight`. 
+
+5. Next write a line of code that calculates BMI according to the following forumula:
+
+<img src="formula.png">
+
+6. Using `print` report to the user their BMI and tell them they look great.
+
+---
+
+## What to turn in
+In your `ps2` folder you should have two python scripts: `part1.py` and `part2.py`. Remove any other things you might have accidentally put in the folder, then zip the folder up using whatever means you normally use to zip things up (e.g., on a Mac, you can right click and select `Compress`).
+
+Upload the `.zip` file you created to Canvas. 
+
+Note that if you do not submit the files as specified here, there will be a major deduction in your grade for this assignment. Following directions to the letter is a crucial skill for computer programming.
+
+### This problem set is due Friday, February 6, 2021, at 11:59pm EST
 
 
-## Part 3: Combine the two
-Use your conversion techniques and string slicing to get the first, third, and final digit of some number.
