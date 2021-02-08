@@ -1,5 +1,5 @@
 # Problem Set 2
-### Due Friday, February 6, 2021, at 11:59pm EST
+### Due Friday, February 5, 2021, at 11:59pm EST
 
 For this problem set, you will submit to Canvas **a single .zip file**. Detailed instructions for what the .zip file should contain are at the end of this problem set. Note that if you do not submit the files as specified here, there will be a major deduction in your grade for this assignment. Following directions to the letter is a crucial skill for computer programming.
 
@@ -110,6 +110,6 @@ Upload the `.zip` file you created to Canvas.
 
 Note that if you do not submit the files as specified here, there will be a major deduction in your grade for this assignment. Following directions to the letter is a crucial skill for computer programming.
 
-### This problem set is due Friday, February 6, 2021, at 11:59pm EST
+### This problem set is due Friday, February 5, 2021, at 11:59pm EST
 
 
